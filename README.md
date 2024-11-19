@@ -42,5 +42,7 @@ Este projeto foi desenvolvido como parte do Bootcamp Microsoft Azure AI 102 ofer
 ## Resultados 🎉📑
 
 Os resultados de análise de cartão válido e inválido, podem ser vistos aqui:
-[Cartão Válido](\resultados\cartao_valido.jpg)
-[Cartão Inválido](\resultados\cartao_invalido.jpg)
+
+[Cartão Válido](./resultados/cartao_valido.jpg)
+
+[Cartão Inválido](./resultados/cartao_invalido.jpg)
